@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hadi Hassan</h1>
-<h3 align="center">fresh grad trying to find place</h3>
+<h3 align="center">cs major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadihssn&label=Profile%20views&color=0e75b6&style=flat" alt="hadihssn" /> </p>
 
