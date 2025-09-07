@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadihssn&label=Profile%20views&color=0e75b6&style=flat" alt="hadihssn" /> </p>
 
-- 🌱 I’m currently working as a **Bubble.io Web App Developer**
+- 🌱 I’m currently working as an **Application Developer**
 
 - 📝 I regularly write articles on [https://medium.com/@hadihssn](https://medium.com/@hadihssn) regarding productivity, self-growth, and life
 
